@@ -59,7 +59,7 @@ body{
       }
       .last-sight{
           text-align: center;
-          height: 200px;
+          /* height: 200px; */
       }
       .message{
           color: whitesmoke;
